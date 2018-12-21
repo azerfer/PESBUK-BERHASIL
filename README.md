@@ -1,5 +1,7 @@
 # Socio Crypto Project
 
+[![Build Status](https://travis-ci.org/azerfer/Socio-Cryptocurrency.svg?branch=master)](https://travis-ci.org/azerfer/Socio-Cryptocurrency)
+
 Welcome to Socio Crypto Project
 The idea is simple, we are making Social media website base on cryptocurrency as tip/donate/transaction.
 
